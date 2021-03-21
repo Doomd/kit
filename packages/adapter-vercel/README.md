@@ -8,7 +8,7 @@ Adapter for Svelte apps that creates a Vercel app, using a function for dynamic 
 npm install --save-dev @sveltejs/adapter-vercel
 ```
 
-Then in your `svelte.config.js`:
+Then in your `svelte.config.cjs`:
 
 ```js
 module.exports = {
